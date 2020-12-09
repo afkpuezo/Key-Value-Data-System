@@ -6,7 +6,7 @@ Features:
     -View, put, and remove data entries (key-value pairs) [x]
     -Save data back to the database table (or quit without saving changes) [x]
 
-Use:
+Instructions to Use:
 From the command line, type "java KVDS"...
     (from the maven project root, type "mvn exec:java")
     (to store/retrieve data in a plain-text file, use the command-line argument "file" eg "java KVDS -file")
