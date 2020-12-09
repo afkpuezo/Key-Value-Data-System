@@ -1,0 +1,5 @@
+/target/
+*.kvd
+*.sql
+Dockerfile
+status.log
