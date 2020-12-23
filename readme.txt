@@ -1,10 +1,17 @@
 This is a (relatively) simple key-value data system, which I have creatively called KVDS.
 
 Features:
-    -Create a new database table [x]
-    -Open a prexisting database table [x]
-    -View, put, and remove data entries (key-value pairs) [x]
-    -Save data back to the database table (or quit without saving changes) [x]
+    -Create a new database table
+    -Open a prexisting database table
+    -View, put, and remove data entries (key-value pairs)
+    -Save data back to the database table (or quit without saving changes)
+    
+Technologies:
+    - Java
+    - Maven
+    - Junit
+    - JDBC
+    - PostgreSQL
 
 Instructions to Use:
 From the command line, type "java KVDS"...
